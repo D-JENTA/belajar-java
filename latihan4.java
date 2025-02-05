@@ -12,6 +12,7 @@ public class latihan4 {
         System.out.println("----------");
         System.out.print("NISN : ");
         NISN = Input.nextInt();
+        input.nextLine();
         System.out.print("Nama : ");
         Nama = Input.nextLine();
         System.out.print("Alamat : ");
