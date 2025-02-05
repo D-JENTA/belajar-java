@@ -1,9 +1,7 @@
 
 import java.util.Scanner;
 public class latihan4 {
-    /**
-     * @param args
-     */
+    
     public static void main(String[] args) {
         // mengolah input data sederhana 
         // menggunakan class scanner
